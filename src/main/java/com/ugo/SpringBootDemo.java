@@ -8,5 +8,6 @@ package com.ugo;
 public class SpringBootDemo {
     public static void main(String[] args) {
         System.out.println("springboot edit one,,,");
+        System.out.println("springboot first change,,,");
     }
 }
